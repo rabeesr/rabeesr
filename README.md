@@ -2,13 +2,13 @@
 
 ## About Me
 
-Hey there! I'm currently a student at University of Chicago Booth School of Business and a Masters in Computer Science. 
+Hey there! My name is Rabees and I'm currently pursuing a MBA and and Masters in Computer Science from the University of Chicago 🧐.
 
 ## Why This Repo?
 
-This repository is my digital playground where I experiment with ideas, showcase projects, and document my journey through the fascinating world of tech and business. I hope that over time, I can see the progression in my skills and learn a thing or two. 
+This repository is my digital playground where I experiment with ideas, showcase projects, and document my journey through the fascinating world of tech and business. I hope that over time, I can improve my skills and learn a few things. 
 
-## Hobbies?
+## Hobbies
 
 - **Chess ♟️**:
 - **Logic Puzzles 🧩**: 
