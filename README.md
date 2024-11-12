@@ -13,8 +13,8 @@ This repository is my digital playground where I experiment with ideas, showcase
 - **Chess ♟️**:
 - **Logic Puzzles 🧩**: 
 - **Basketball 🏀**: 
-- **Stars and Cosmology 🌌**: I love reading about the physics and current theories around the formation of our universe. Please send good book recs my way.
+- **Stars and Cosmology 🪐**: I love reading about the physics and current theories around the formation of our universe. Please send good book recs my way.
 
 ## Let's Connect!
 
-I'm always excited to collaborate on interesting projects or discuss the latest trends in tech. Feel free to reach out if you want to chat about product management, the next big tech innovation, or talk about the origins of the universe 🪐
+I'm always excited to collaborate on interesting projects or discuss the latest trends in tech. Feel free to reach out if you want to chat about product management, the next big tech innovation, or talk about the origins of the universe 👽👽
