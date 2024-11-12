@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! My name is Rabees and I'm currently pursuing a MBA and and Masters in Computer Science from the University of Chicago 🧐.
+Hey there! My name is Rabees and I'm currently pursuing an MBA and and Masters in Computer Science from the University of Chicago 🧐.
 
 ## Why This Repo?
 
