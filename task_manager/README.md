@@ -1,7 +1,7 @@
 # Task Manager Program
 
 ## Overview
-This is a custom task manager program created by **Rabees Rafiq** for the final project in **MPCS 50101 Concepts of Programming - Autumn 2024** course.
+This is a custom task manager program created by **Rabees Rafiq** for planning tasks and activities.
 
 ## Instructions
 To use this program, execute the following Python file:
