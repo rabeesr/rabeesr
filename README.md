@@ -10,9 +10,9 @@ This repository is my digital playground where I experiment with ideas, showcase
 
 ## Hobbies
 
-- **Chess ♟️**:
-- **Logic Puzzles 🧩**: 
-- **Basketball 🏀**: 
+- **Chess ♟️**
+- **Logic Puzzles 🧩** 
+- **Basketball 🏀** 
 - **Stars and Cosmology 🪐**: I love reading about the physics and current theories around the formation of our universe. Please send good book recs my way.
 
 ## Let's Connect!
