@@ -1,5 +1,4 @@
 # PatentAnalyzer
-Final Project for MPCS Python Programming
 
 
 **Project Description**
