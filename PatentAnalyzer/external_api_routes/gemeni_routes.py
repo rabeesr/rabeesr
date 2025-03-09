@@ -1,5 +1,3 @@
-#APIKEY:AIzaSyBfOLl57ibOiXm6Zvb39OXZuGR1hJY5tmo
-#Project Number: 367827059802
 from google import genai
 from google.genai import types
 import pathlib as pl
@@ -10,7 +8,7 @@ import httpx
 
 def gemini_wrapper():
     """Wrapper function to make a call to the Google Gemini API. The function uploads the PDF file, supplies it to the Google Gemini 2.0 Flash Lite model."""
-    client = genai.Client(api_key="AIzaSyBfOLl57ibOiXm6Zvb39OXZuGR1hJY5tmo")
+    client = genai.Client(api_key="")
 
     # Get the current path
     current_path = pl.Path.cwd()
