@@ -1,7 +1,7 @@
 # Task Manager Program
 
 ## Overview
-This is a custom task manager program created by **Rabees Rafiq** for planning tasks and activities.
+This is a custom task manager program with a command line interface created by **Rabees Rafiq** for planning tasks and activities.
 
 ## Instructions
 To use this program, execute the following Python file:
