@@ -71,7 +71,7 @@ def store_patents(search_all: str = "", filing_start_date: str = "", filing_end_
         # The API call limit is used cap the total number of API calls that are made for a single query.
         # I am setting to a conservative limit of 10 to reduce likelihood of hitting weekly limit for testing purposes. Currently, up to 1100 records will be returned.
         # Can make this bigger in a production environmment
-        api_call_limit = 10
+        api_call_limit = 100
         # the offset parameter is used to control the starting entry of the pagination of 100 records
         offset = 0
         # stop requesting from the Patent API if either the API call limit is reached or all records have been received 

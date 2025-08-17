@@ -10,7 +10,7 @@ HTTP_RETRY = 5
 MAX_FILES = 2
 total_429 = 0
 total_rate = 0
-API_KEY = ""
+API_KEY = "zbncijprczprbxnvxksauznwwdxzot"
 # API URL for searching patents
 PATENT_SEARCH_URL = 'https://api.uspto.gov/api/v1/patent/applications/search'
 # API URL for downloading patent document URL

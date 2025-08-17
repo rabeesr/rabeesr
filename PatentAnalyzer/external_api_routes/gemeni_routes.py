@@ -8,7 +8,7 @@ import httpx
 
 def gemini_wrapper():
     """Wrapper function to make a call to the Google Gemini API. The function uploads the PDF file, supplies it to the Google Gemini 2.0 Flash Lite model."""
-    client = genai.Client(api_key="")
+    client = genai.Client(api_key="AIzaSyBfOLl57ibOiXm6Zvb39OXZuGR1hJY5tmo")
 
     # Get the current path
     current_path = pl.Path.cwd()
